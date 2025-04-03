@@ -5,7 +5,6 @@
 - 🎓 Formado em ciência da computação pela UNESP-Bauru
 - 🌱 Atualmente cursando mestrado em Engenharia da computação na Unicamp - focado em arquituras cognitivas e reinforcement learning
 - 💬 Pergunte-me sobre Python, TritonServer, Numpy, YOLO, Docker e pyTorch!
-- 😄 Pronomes: Ele/Dele
 
 ### Linguagens e Ferramentas
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
