@@ -3,7 +3,7 @@
 ### Sobre Mim
 - 💼 Engenheiro de Machine Learning na Kasco P&D (2023-)
 - 🎓 Formado em ciência da computação pela UNESP-Bauru
-- 🌱 Atualmente cursando mestrado em Engenharia da computação na Unicamp - focado em arquituras cognitivas e reinforcement learning
+- 🌱 Atualmente cursando mestrado em Engenharia da computação na Unicamp - (arquituras cognitivas/reinforcement learning)
 - 💬 Pergunte-me sobre Python, TritonServer, Numpy, YOLO, Docker e pyTorch!
 
 ### Linguagens e Ferramentas
