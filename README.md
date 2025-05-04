@@ -18,7 +18,7 @@
 
 ### Estatísticas do GitHub
 <div>
-<a href="https://github.com/thigs0">
+<a href="https://github.com/RafaelRagozoni">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelRagozoni&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=RafaelRagozoni&show_icons=true&theme=dracula&count_private=true"/>
 </div>
